@@ -1,4 +1,4 @@
 # RushabhOp
 This is my First Git Repository
 <br>
-Author- Rushabh Tak.
+<h3>Author- Rushabh Tak.</h3>
